@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import { PDFViewer, PDFDownloadLink } from '@react-pdf/renderer';
 import { Document, Page, Text, View, StyleSheet } from '@react-pdf/renderer';
 
+//tutorial
+// https://codesandbox.io/s/react-pdf-demo-i1ted?from-embed=&file=/src/MovieList.jsx
+
 const styles = StyleSheet.create({
   page: {
     flexDirection: 'row',
